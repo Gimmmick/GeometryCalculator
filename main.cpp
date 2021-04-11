@@ -2,7 +2,6 @@
 Text-menu based program to calculate areas of 3 geometric shapes 
 (circle, rectangle, triangle).
 
-@author Vlada Foulke
 @version 10/24/2020
 *******************************************************************************/
 #include <iostream>
